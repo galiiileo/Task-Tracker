@@ -27,6 +27,6 @@ Each task has the following properties:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/galiiileo/Task-Tracker
+   git clone https://github.com/galiiileo/Task-Tracker.git
    cd task-tracker
 https://roadmap.sh/projects/task-tracker
